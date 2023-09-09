@@ -1,0 +1,3 @@
+from variational.utils import kl_divergence_mc, dirichlet_kl_divergence
+from variational.deterministic_warmup import DeterministicWarmup
+from variational.free_nats import FreeNats, FreeNatsCooldown
